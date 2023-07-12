@@ -8,8 +8,8 @@ document.addEventListener('visibilitychange', function () {
 		} 
 	else { 
 		$('[rel="icon"]').attr('href', "/favicon.ico"); 
-		document.title = '( ๑ ´ ㅂ ` ๑ )' + OriginTitle; 
-		titleTime = setTimeout(function () { document.title = OriginTitle; }, 2000);
+		document.title = '( ๑ ´ㅂ` ๑ )'; 
+		titleTime = setTimeout(function () { document.title = OriginTitle; }, 5000);
 		} 
 	}
 );
