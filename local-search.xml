@@ -8,7 +8,7 @@
     <link href="/My-Test-Post/"/>
     <url>/My-Test-Post/</url>
     
-    <content type="html"><![CDATA[<h2 id="Mathematical"><a href="#Mathematical" class="headerlink" title="Mathematical"></a>Mathematical</h2><p>这是一个方程</p><script type="math/tex; mode=display">\alpha+\sum_{i=1}^{n}\gamma_i=\left\{\begin{aligned}&0,&\mathrm{if} \: x\in\mathbb{Q}\\&1,&\mathrm{else}.\end{aligned}\right.</script>]]></content>
+    <content type="html"><![CDATA[<h2 id="mathematical">Mathematical</h2><p>这是一个方程 <spanclass="math display">\[\alpha+\sum_{i=1}^{n}\gamma_i=\left\{\begin{aligned}&amp;0,&amp;\mathrm{if} \: x\in\mathbb{Q}\\&amp;1,&amp;\mathrm{else}.\end{aligned}\right.\]</span></p>]]></content>
     
     
     
