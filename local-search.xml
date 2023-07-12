@@ -8,7 +8,7 @@
     <link href="/2023/07/12/My-Test-Post/"/>
     <url>/2023/07/12/My-Test-Post/</url>
     
-    <content type="html"><![CDATA[<h2 id="Mathematical"><a href="#Mathematical" class="headerlink" title="Mathematical"></a>Mathematical</h2><p>\begin{equation}<br>\alpha+\sum_{i&#x3D;1}^{n}\gamma_i&#x3D;\left{<br>\begin{aligned}&amp;0,&amp;\mathrm{if} : x\in\mathbb{Q}\<br>&amp;1,&amp;\mathrm{else}.<br>\end{aligned}\right.<br>\end{equation}</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Mathematical"><a href="#Mathematical" class="headerlink" title="Mathematical"></a>Mathematical</h2><p>这是一个方程<br>$$<br>\alpha+\sum_{i&#x3D;1}^{n}\gamma_i&#x3D;\left{<br>\begin{aligned}&amp;0,&amp;\mathrm{if} : x\in\mathbb{Q}\<br>&amp;1,&amp;\mathrm{else}.<br>\end{aligned}\right.<br>$$</p>]]></content>
     
     
     
